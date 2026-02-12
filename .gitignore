@@ -30,6 +30,7 @@ cache/
 ############################
 # Minecraft server runtime
 ############################
+server/**
 server/
 world/
 world_nether/

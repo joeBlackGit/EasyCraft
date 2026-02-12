@@ -1,0 +1,76 @@
+############################
+# OS / Editor junk
+############################
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*.bak
+.vscode/
+.idea/
+
+############################
+# Python
+############################
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+############################
+# Java / Minecraft binaries
+############################
+*.jar
+libraries/
+versions/
+cache/
+
+############################
+# Minecraft server runtime
+############################
+server/
+world/
+world_nether/
+world_the_end/
+logs/
+crash-reports/
+banned-players.json
+banned-ips.json
+ops.json
+usercache.json
+whitelist.json
+eula.txt
+server.properties
+
+############################
+# Plugins & mods
+############################
+plugins/
+mods/
+config/
+datapacks/
+
+############################
+# Backups & archives
+############################
+backups/
+*.zip
+*.tar
+*.tar.gz
+
+############################
+# Secrets / environment
+############################
+.env
+*.key
+*.pem
+
+############################
+# Generated scripts
+############################
+start.bat
+start.sh
+run.bat
+run.sh
